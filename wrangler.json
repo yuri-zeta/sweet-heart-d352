@@ -6,6 +6,7 @@
   "route": {
     "pattern": "www.yurisplexflix.com",
     "custom_domain": true
+  },
   "ai": {
     "binding": "AI"
   },
