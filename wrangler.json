@@ -5,15 +5,11 @@
   "upload_source_maps": true,
   "ai": {
     "binding": "AI"
+  "route": {
+    "pattern": "www.yurisplexflix,com",
+    "custom_domain": true
   },
   "observability": {
     "enabled": true
   }
- "routes": [
-    {
-      "pattern": "www.yurisplexflix.com",
-      "custom_domain": true
-    }
-  ]
 }
-
