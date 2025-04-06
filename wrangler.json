@@ -3,6 +3,9 @@
   "main": "src/index.ts",
   "name": "sweet-heart-d352",
   "upload_source_maps": true,
+  "route": {
+    "pattern": "www.yurisplexflix.com",
+    "custom_domain": true
   "ai": {
     "binding": "AI"
   },
