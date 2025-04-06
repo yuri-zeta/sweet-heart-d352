@@ -10,3 +10,11 @@
     "enabled": true
   }
 }
+{
+  "routes": [
+    {
+      "pattern": "www.yurisplexflix.com",
+      "custom_domain": true
+    }
+  ]
+}
