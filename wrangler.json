@@ -9,12 +9,11 @@
   "observability": {
     "enabled": true
   }
-}
-{
-  "routes": [
+ "routes": [
     {
       "pattern": "www.yurisplexflix.com",
       "custom_domain": true
     }
   ]
 }
+
